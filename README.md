@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Doudda
-- 👀 I’m interested in coding since 1200 before JC 😂
-- 🌱 I’m currently learning to find a job 😢
-- 📫 How to reach me on my email : onjanirina1808 @gmail.com
+- 👋 Salut, I’m @Doudda
+- 👀 Je suis un développeur incompris 😂
+- 📫 Tu veux me contacter ? Je ne pense pas, mais voici quand même comment : onjanirina1808@gmail.com
 
 <!---
 Doudda/Doudda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
