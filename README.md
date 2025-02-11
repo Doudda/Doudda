@@ -1,8 +1,6 @@
-- 👋 Salut, I’m @Doudda
-- 👀 Je suis un développeur incompris 😂
-- 📫 Tu veux me contacter ? Je ne pense pas, mais voici quand même comment : onjanirina1808@gmail.com
+- 👋 Salut, I’m @Doudda ou Onja Nirina pour les intimes
+- 👀 Quelque fois, je suis un développeur web 😂
+- 📫 Tu veux me contacter ? Voici mon email : onjanirina1808@gmail.com
+- 🕸️ Et voici mon portfolio, allez regarde un coup : https://onjanirina-dev.vercel.app
 
-<!---
-Doudda/Doudda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
